@@ -149,4 +149,4 @@ Throughout development, I gained practical experience in:
 Most importantly, this project strengthened my interest in embedded systems and electronics design, 
 and gave me the confidence to independently develop a product that combines hardware, software, and personal design goals.
 
-<mark><strong>This project was designed and built independently with curiosity, experimentation, and a little bit of sentimentality <3.</strong></mark>
+<mark><strong>This project was designed and built independently with curiosity, experimentation, and a lot of sentimentality <3.</strong></mark>
