@@ -122,6 +122,7 @@ While the current prototype achieves its intended functionality, there are sever
 
 https://github.com/user-attachments/assets/8749b3e8-0e8b-4ec1-8f62-4512d21c8f5d
 
+- video was sped up and compressed so I could upload to this markdown file!
 
 **Project photographs:**
 
