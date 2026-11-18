@@ -32,6 +32,14 @@ Memories are stored in a text file on a microSD card and retrieved by the device
 - **Portable operation:** Battery-powered design with a 5V boost conversion stage.
 - **Compact enclosure:** Housed in a small metal tin.
 
+**Some other features**
+
+- Keyboard for typing using the buttons for navigation (for custom typing activity type and making notes)
+- Each saved memory is editable and deletable
+- The memory used from the SD card and battery voltage is read and displayed in the settings screen
+- On initial startup, a random memory is selected and displayed! (Just for fun!!)
+- The case is decorated but is not shown for privacy
+
 ## Hardware & Components
 
 | Component | Purpose |
@@ -112,15 +120,18 @@ While the current prototype achieves its intended functionality, there are sever
 
 ## Demonstration
 
-<mark>COMING SOON</mark>
+https://github.com/user-attachments/assets/8749b3e8-0e8b-4ec1-8f62-4512d21c8f5d
+
 
 **Project photographs:**
 
-<mark>COMING SOON</mark>
+<img height="500" alt="IMG_0519" src="https://github.com/user-attachments/assets/7e42fc88-5d3a-453a-aa14-40554984348b" />
+<img height="500" alt="IMG_0521" src="https://github.com/user-attachments/assets/e34e96b8-157f-462c-b97b-0ba0b628988f" />
+
 
 ## Block Diagram
 
-<mark>COMING SOON</marK>
+<mark>COMING SOON</mark>
 
 ## What I Learned
 
@@ -137,4 +148,4 @@ Throughout development, I gained practical experience in:
 Most importantly, this project strengthened my interest in embedded systems and electronics design, 
 and gave me the confidence to independently develop a product that combines hardware, software, and personal design goals.
 
-**This project was designed and built independently with curiosity, experimentation, and a little bit of sentimentality.**
+<mark><strong>This project was designed and built independently with curiosity, experimentation, and a little bit of sentimentality <3.</strong></mark>
