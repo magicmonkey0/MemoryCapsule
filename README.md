@@ -128,6 +128,7 @@ https://github.com/user-attachments/assets/8749b3e8-0e8b-4ec1-8f62-4512d21c8f5d
 
 <img height="500" alt="IMG_0519" src="https://github.com/user-attachments/assets/7e42fc88-5d3a-453a-aa14-40554984348b" />
 <img height="500" alt="IMG_0521" src="https://github.com/user-attachments/assets/e34e96b8-157f-462c-b97b-0ba0b628988f" />
+<img height="400" alt="IMG_0516" src="https://github.com/user-attachments/assets/1d790e91-c544-415a-b946-4061d76ea27c" />
 
 
 ## Block Diagram
